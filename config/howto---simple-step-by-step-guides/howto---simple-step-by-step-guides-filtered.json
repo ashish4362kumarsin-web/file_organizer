@@ -1,0 +1,52 @@
+{
+    "index.html": {
+        "Extension": ".html",
+        "SourcePath": "C:\\Users\\ashis\\Desktop\\howto---simple-step-by-step-guides\\index.html",
+        "DestinationPath": "C:\\Users\\ashis\\Desktop\\howto---simple-step-by-step-guides\\Coding\\Html and CSS"
+    },
+    "metadata.json": {
+        "Extension": ".json",
+        "SourcePath": "C:\\Users\\ashis\\Desktop\\howto---simple-step-by-step-guides\\metadata.json",
+        "DestinationPath": "C:\\Users\\ashis\\Desktop\\howto---simple-step-by-step-guides\\Coding\\JSON"
+    },
+    "README.md": {
+        "Extension": ".md",
+        "SourcePath": "C:\\Users\\ashis\\Desktop\\howto---simple-step-by-step-guides\\README.md",
+        "DestinationPath": "C:\\Users\\ashis\\Desktop\\howto---simple-step-by-step-guides\\Documents"
+    },
+    "styles.css": {
+        "Extension": ".css",
+        "SourcePath": "C:\\Users\\ashis\\Desktop\\howto---simple-step-by-step-guides\\css\\styles.css",
+        "DestinationPath": "C:\\Users\\ashis\\Desktop\\howto---simple-step-by-step-guides\\Coding\\Html and CSS"
+    },
+    "api.js": {
+        "Extension": ".js",
+        "SourcePath": "C:\\Users\\ashis\\Desktop\\howto---simple-step-by-step-guides\\js\\api.js",
+        "DestinationPath": "C:\\Users\\ashis\\Desktop\\howto---simple-step-by-step-guides\\Coding\\Node"
+    },
+    "app.js": {
+        "Extension": ".js",
+        "SourcePath": "C:\\Users\\ashis\\Desktop\\howto---simple-step-by-step-guides\\js\\app.js",
+        "DestinationPath": "C:\\Users\\ashis\\Desktop\\howto---simple-step-by-step-guides\\Coding\\Node"
+    },
+    "data.js": {
+        "Extension": ".js",
+        "SourcePath": "C:\\Users\\ashis\\Desktop\\howto---simple-step-by-step-guides\\js\\data.js",
+        "DestinationPath": "C:\\Users\\ashis\\Desktop\\howto---simple-step-by-step-guides\\Coding\\Node"
+    },
+    "icons.js": {
+        "Extension": ".js",
+        "SourcePath": "C:\\Users\\ashis\\Desktop\\howto---simple-step-by-step-guides\\js\\icons.js",
+        "DestinationPath": "C:\\Users\\ashis\\Desktop\\howto---simple-step-by-step-guides\\Coding\\Node"
+    },
+    "router.js": {
+        "Extension": ".js",
+        "SourcePath": "C:\\Users\\ashis\\Desktop\\howto---simple-step-by-step-guides\\js\\router.js",
+        "DestinationPath": "C:\\Users\\ashis\\Desktop\\howto---simple-step-by-step-guides\\Coding\\Node"
+    },
+    "storage.js": {
+        "Extension": ".js",
+        "SourcePath": "C:\\Users\\ashis\\Desktop\\howto---simple-step-by-step-guides\\js\\storage.js",
+        "DestinationPath": "C:\\Users\\ashis\\Desktop\\howto---simple-step-by-step-guides\\Coding\\Node"
+    }
+}
